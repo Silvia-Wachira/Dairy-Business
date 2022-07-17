@@ -2,7 +2,7 @@
 # Author
 Silvia Wachira
 # Description
-This is a project creating the website of a business called Agriplus.
+This project creating a system for a dairy business
 # Technologies Used
 *HTML<br>
 *CSS
