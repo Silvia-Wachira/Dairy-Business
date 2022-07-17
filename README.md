@@ -2,7 +2,7 @@
 # Author
 Silvia Wachira
 # Description
-This is project creating a system for a dairy business
+
 # Technologies Used
 *HTML<br>
 *CSS <br>
