@@ -5,7 +5,7 @@ Silvia Wachira
 This is project creating a system for a dairy business
 # Technologies Used
 *HTML<br>
-*CSS
+*CSS <br>
 *JavaScript
 # Set Up Instructions
 * Open the terminal command line[ctrl+alt+t]<br>
