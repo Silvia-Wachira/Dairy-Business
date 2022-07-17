@@ -13,7 +13,9 @@ This is project creating a system for a dairy business
 # Live page
 https://moringawachira.github.io/Dairy-Business/
 # License
-
+*HTML<br>
+*CSS <br>
+*JavaScript
 
 Copyright (c) 2022 MoringaWachira
 
