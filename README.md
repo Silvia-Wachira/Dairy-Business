@@ -8,10 +8,7 @@ This is project creating a system for a dairy business
 *CSS <br>
 *JavaScript
 # Set Up Instructions
-* Open the terminal command line[ctrl+alt+t]<br>
-* Clone the repository<br>
-* cd Dairy-business<br>
-* Open index.html file on your browser
+
 # Live page
 https://moringawachira.github.io/Dairy-Business/
 # License
