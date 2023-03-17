@@ -1,6 +1,6 @@
 # Dairy-Business
 # Author
-Silvia N Wachira
+Silvia Wachira
 # Description
 This is a project creating a system for a Dairy Business
 # Technologies Used
